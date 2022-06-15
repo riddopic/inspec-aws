@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM ruby:2.7
 MAINTAINER Chef Software, Inc. <docker@chef.io>
 
 ARG TF_VERSION=0.12.3
